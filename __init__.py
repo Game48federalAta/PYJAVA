@@ -1,1 +1,1 @@
-#package
+from PYJAVA import *
